@@ -17,6 +17,8 @@ end
 
 gem 'jquery-rails'
 
+gem 'rails-footnotes', group: :development
+
 gem 'jpmobile', :git => 'git://github.com/jpmobile/jpmobile.git'
 gem 'jpmobile-terminfo'
 gem 'jpmobile-ipaddresses'
